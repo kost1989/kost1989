@@ -1,5 +1,4 @@
-![IMG_20210516_151238](https://user-images.githubusercontent.com/62962178/119973990-d4360900-bfbc-11eb-8d59-8965cbfd23aa.png)
-
+![IMG_20210516_151238](https://user-images.githubusercontent.com/62962178/119974377-3ee74480-bfbd-11eb-845f-407bc3a58188.png)
 
 
 - 👋 Hi, I’m Ilya Kostyukov
