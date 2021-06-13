@@ -8,6 +8,10 @@
 
 **Outsource work:**
 <br>
+С#: <br>
+https://sourceforge.net/projects/rzx-copy/
+
+<br>
 HTML: <br>
 http://xn----7sbqf2alblfhif8a0k.xn--p1ai/
 
