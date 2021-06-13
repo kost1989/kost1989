@@ -6,7 +6,7 @@
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Spring Framework
 
-**Outsource work:**
+<h3>Outsource work:</h3>
 <br>
 С#: <br>
 https://sourceforge.net/projects/rzx-copy/
