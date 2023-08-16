@@ -3,8 +3,8 @@
 <h2>Hey there!</h2>
 
 - 👋 Hi, I’m Ilya Kostyukov
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Spring Framework
+- 👀 I’m interested in Java and Spring Framework
+- 🌱 I’m currently learning design patterns
 
 
 <br>
