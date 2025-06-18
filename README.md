@@ -12,8 +12,8 @@
 <br>
 
 <br>
-JAVA, SPRING BOOT, THYMELEAF, JS, HTML: <br>
-[https://www.заря-техосмотр.рф](http://xn----7sbqf2alblfhif8a0k.xn--p1ai/)
+Java, Spring Boot 3, Thymeleaf, JS, HTML: <br>
+https://www.заря-техосмотр.рф
 
 <!---
 kost1989/kost1989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
