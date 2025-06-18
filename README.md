@@ -10,8 +10,6 @@
 <br>
 <b>Outsource work:</b>
 <br>
-С#: <br>
-https://sourceforge.net/projects/rzx-copy/
 
 <br>
 HTML: <br>
