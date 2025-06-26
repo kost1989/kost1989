@@ -17,6 +17,7 @@ https://www.заря-техосмотр.рф
 
 <br>
 <b>Agile Poker Planner</b>
+<br>
 Java, Spring Boot 3, Thymeleaf, JS, HTML: <br>
 http://nwm89.synology.me:8087
 
