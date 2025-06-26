@@ -14,7 +14,7 @@
 <br>
 Java, Spring Boot 3, Thymeleaf, JS, HTML: <br>
 https://www.заря-техосмотр.рф
-
+<br>
 <br>
 <b>Agile Poker Planner</b>
 <br>
