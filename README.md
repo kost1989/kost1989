@@ -20,6 +20,10 @@ https://www.заря-техосмотр.рф
 <br>
 Java, Spring Boot 3, Thymeleaf, JS, HTML: <br>
 http://nwm89.synology.me:8087
+<br>
+<b>Android App - Scanner QR-code</b>
+<br>
+https://disk.yandex.ru/d/XAC911RfV8Lu8w
 
 <!---
 kost1989/kost1989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
